@@ -1,1 +1,11 @@
 Sample Test file created
+adding the items
+
+Spring 
+SpringBoot
+microservices
+struts
+hibernate
+restapi
+oracle
+
